@@ -26,7 +26,7 @@ class AppController extends $.controller {
          * This should maybe come from a database.
          */
         const user = {
-            name: "Developer",
+            name: "Boys 4rm kuala lumpur",
             email: "developer@example.com",
         };
 
@@ -118,9 +118,9 @@ class AppController extends $.controller {
          */
         const info = {
             email: user.email,
-            company: 'Your Company',
+            company: 'Evil corp',
             phone: '+123456789',
-            address: "Somewhere on earth, maybe Astro world!"
+            address: "The 10th planet!"
         };
 
 
